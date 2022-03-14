@@ -1,0 +1,38 @@
+h1 {
+    font-size: 48;
+    font-family: Chalkduster;
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 34;
+    font-family: Luminari;
+    color: dodgerblue;
+    text-align: center;
+}
+
+.pic-align, 
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+ul,
+p,
+ol {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    font-family: fantasy;
+    color: orange;
+}
+
+h3 {
+    font-size: 24;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
